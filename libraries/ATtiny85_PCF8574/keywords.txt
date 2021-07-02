@@ -1,0 +1,27 @@
+##########################################
+# Syntax Coloring Map for ATtiny85_PCF8574
+##########################################
+
+##########################################
+# Datatypes (KEYWORD1)
+##########################################
+
+ATtiny85_PCF8574	KEYWORD1
+
+##########################################
+# Methods and Functions (KEYWORD2)
+##########################################
+
+begin	KEYWORD2
+setBitMode	KEYWORD2
+setBit	KEYWORD2
+setByte	KEYWORD2
+getByte	KEYWORD2
+getBit	KEYWORD2
+
+##########################################
+# Constants (LITERAL1)
+##########################################
+
+INPUT_BIT	LITERAL1
+OUTPUT_BIT	LITERAL1
